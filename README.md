@@ -1,1 +1,1 @@
-# Hackerrank_challenges_solved
+Contains solutions to hackerank challenges on algorithms
