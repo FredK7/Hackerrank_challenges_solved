@@ -1,1 +1,3 @@
-Contains solutions to hackerank challenges on algorithms
+Contains solutions to hackerank challenges on problem solving, specifically algorithms.
+
+
